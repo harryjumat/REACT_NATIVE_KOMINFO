@@ -1,0 +1,34 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    /* color: #61DBFB; */
+    width: 100px;
+    height: 50px;
+    padding: 20px;
+    border: 1px solid;
+}
+
+/* class */
+.belajar {
+    border: 1px solid orange;
+    padding: 10px;
+    margin: 10px;
+}
+
+/* id */
+#react {
+    background-color: #61dbfb;
+}
+
+/* grouping */
+h1,
+p {
+    text-align: center;
+}

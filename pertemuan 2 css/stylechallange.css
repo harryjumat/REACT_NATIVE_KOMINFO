@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(248, 248, 139);
+}
+
+.bagianatas {
+    margin: 10px;
+    background-color: rgb(233, 243, 176);
+    width: flex;
+    height: 250px;
+    padding: 10px;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    margin-top: 20px;
+}
+
+.logo {
+    width: 30px;
+    margin-right: 50px;
+}
+
+.content {
+    padding: 20px;
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+table {
+    background-color: yellowgreen;
+    margin: 100px;
+    padding: 20px;
+    display: block;
+}
+
+.center {
+    text-align: center;
+}
+
+footer {
+    background-color: brown;
+    height: 100px;
+}
+
+#portfolio {
+    margin: 10px;
+    width: 150px;
+}

@@ -1,0 +1,2 @@
+let tidak bisa di akses diluar kurung
+var bisa

@@ -1,0 +1,7 @@
+.belajar (class) jadi dasar elemen
+#react (id) tambahan elemen tanpa menghilangkan modifikasi dari class
+
+Namun di sini class ada perbedaan dengan id:
+id adalah atribut unik di dalam html, tidak boleh ada elemen lain dengan nama id yang sama (hanya bisa digunakan terhadap satu elemen di html)
+class adalah atribut yang tidak di dalam html, boleh ada elemen lain dengan nama class yang sama (bisa digunakan berkali kali)
+[!] Selalu pilih menggunakan class daripada id di dalam css apabila memungkinkan
